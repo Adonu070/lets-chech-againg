@@ -1,3 +1,3 @@
 function checkButton() {
- document.getElementById("checked").textContent = 'checked';
+ document.getElementById("checked").textContent = 'plesee tra agian sir whats the problem';
 }
